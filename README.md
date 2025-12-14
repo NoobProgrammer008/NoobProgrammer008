@@ -63,33 +63,11 @@ I'm a passionate developer exploring the intersection of mobile development, bac
 
 </div>
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NoobProgrammer008&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
-
-</div>
 
 ## 📈 Contribution Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NoobProgrammer008&theme=tokyo-night&hide_border=true)](https://github.com/NoobProgrammer008)
 
-## 💡 Featured Projects
-
-### 🎯 [Project Name 1](https://github.com/NoobProgrammer008/project1)
-Brief description of your most impressive project - what it does and the tech stack used.
-
-### 🚀 [Project Name 2](https://github.com/NoobProgrammer008/project2)
-Another cool project showcasing your skills in AI/ML or mobile development.
-
-### 💻 [Project Name 3](https://github.com/NoobProgrammer008/project3)
-A full-stack application demonstrating your backend and frontend capabilities.
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- Coming soon! Stay tuned for technical articles and tutorials.
-<!-- BLOG-POST-LIST:END -->
 
 ## 💭 Quote of the Day
 
