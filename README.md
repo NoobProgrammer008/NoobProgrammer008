@@ -81,10 +81,6 @@ I'm a passionate developer exploring the intersection of mobile development, bac
 
 <div align="center">
 
-### 📊 Profile Views
-
-[![Profile Views]![](https://komarev.com/ghpvc/?username=NoobProgrammer008)
-
 ### 💬 Let's Collaborate!
 
 I'm always interested in working on exciting projects. Feel free to reach out if you want to collaborate or just chat about tech!
