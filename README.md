@@ -83,7 +83,7 @@ I'm a passionate developer exploring the intersection of mobile development, bac
 
 ### 📊 Profile Views
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=NoobProgrammer008&icon=2&color=6)](https://visitcount.itsvg.in)
+[![Profile Views]![](https://komarev.com/ghpvc/?username=NoobProgrammer008)
 
 ### 💬 Let's Collaborate!
 
